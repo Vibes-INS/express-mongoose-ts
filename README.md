@@ -3,10 +3,13 @@
 Usage MVC frame
 
 Project directory
+```
 + src 
   + controller
-  + model
-  + static
-  - config.ts
-  - index.ts
+  + model      // save database model
+  + static     // save static files
+  - config.ts  // save project config 
+  - index.ts   // entry
   - router.ts
+
+ ```
